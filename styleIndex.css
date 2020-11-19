@@ -237,7 +237,7 @@ html{
 
 #tittleIntro{
   color: white;
-  font-family: Poppins ExtraBold;
+  font-family: Poppins:wght;
   font-size: 60px;
   margin-bottom: 20px;
   line-height: 120%;
