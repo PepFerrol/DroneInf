@@ -109,7 +109,6 @@ html{
   overflow: hidden;
   background-color: #181818;
   background-blend-mode: screen;
-  font-family: Poppins ExtraLight;
   transition: 2s ease; 
 }
 
@@ -127,6 +126,8 @@ html{
   opacity: 20;
   height: 22px;
   transition: .2s ease;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
 }
 
 .topnav a:hover {
@@ -139,7 +140,8 @@ html{
   color: black;
 }
 .topnav a.active{
-  font-family: Poppins ExtraBold;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
   padding-top: 10px;
   height: 32px;
   font-size: 160%;
